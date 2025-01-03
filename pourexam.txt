@@ -1,0 +1,14 @@
+Séance 1 :
+exo 5 : class point
+
+Séance 2 : 
+exo 1 : class complexe
+exo 2 : etudiants, note, classe, date...
+
+Séance 3 : 
+exo 1 : class point, couleur, point_3D, point_3D_couleur
+exo 2 : class véhicule
+
+Séance 4 : 
+exo 1 : class garage
+exo 2 : pas complet
